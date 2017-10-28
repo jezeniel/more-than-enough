@@ -27,7 +27,7 @@ label start:
     "And you can still consider me a {i}boy{/i}."
 
     nvl clear
-    
+
     "But I am pretty damn sure."
     "That my feelings for you are true."
     "I am sorry for the promises I broke, "
@@ -57,7 +57,7 @@ label start:
     "That moment,{w=1.5} I felt and knew."
     "That I will be with {i}you{/i}."
     "That I will always love {i}you{/i}."
-    "That I will always be besides {i}you{/i}."
+    "That I will always be beside {i}you{/i}."
     
 
     scene black 

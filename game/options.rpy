@@ -28,7 +28,7 @@ init -1 python hide:
     # These control the name and version of the game, that are reported
     # with tracebacks and other debugging logs.
     config.name = "More Than Enough"
-    config.version = "0.0"
+    config.version = "0.1"
 
     #########################################
     # Themes
@@ -39,34 +39,34 @@ init -1 python hide:
     ## The theme function takes a number of parameters that can
     ## customize the color scheme.
 
-    theme.diamond(
-        ## Theme: Diamond
-        ## Color scheme: White Chocolate
+    theme.regal(
+        ## Theme: Regal
+        ## Color scheme: Colorblind
 
         ## The color of an idle widget face.
-        widget = "#33271C",
+        widget = "#898989",
 
         ## The color of a focused widget face.
-        widget_hover = "#ECE7C4",
+        widget_hover = "#464646",
 
         ## The color of the text in a widget.
-        widget_text = "#B99D83",
+        widget_text = "#CCCCCC",
 
         ## The color of the text in a selected widget. (For
         ## example, the current value of a preference.)
-        widget_selected = "#ffffff",
+        widget_selected = "#F2F2F2",
 
         ## The color of a disabled widget face.
-        disabled = "#614D3A",
+        disabled = "#898989",
 
         ## The color of disabled widget text.
-        disabled_text = "#80654D",
+        disabled_text = "#666666",
 
         ## The color of informational labels.
-        label = "#F1EBE5",
+        label = "#c2c2c2",
 
         ## The color of a frame containing widgets.
-        frame = "#926841",
+        frame = "#252525",
 
         ## The background of the main menu. This can be a color
         ## beginning with '#', or an image filename. The latter
